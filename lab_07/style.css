@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1b1b1b;
+}
+
+canvas {
+  display: block;
+  margin: 40px auto;
+}
+
+.block {
+  left: 10px;
+  position: relative;
+  width: 500px;
+  heigth: 75px;
+  margin: 20px auto;
+  margin-top: 20px;
+}
+
+.button {
+  outline: none;
+
+  margin: 0 20px;
+  display: inline;
+  width: 200px;
+  height: 75px;
+
+  font-size: 23px;
+  font-family: Arial;
+  text-align: center;
+
+  border: solid #41f321 2px;
+  background-color: #1b1b1b;
+  color: #41f321;
+}
+
+p {
+  width: 200px;
+  align:left;
+  margin-left: 20px;
+  font-family: Arial;
+  font-size: 14px;
+  color: #41f321;
+}

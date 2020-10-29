@@ -1,0 +1,27 @@
+body {
+  background-color: #1b1b1b;
+}
+
+canvas {
+  display: block;
+  width: 700px;
+  margin: 10px auto;
+}
+
+p {
+  width: 200px;
+  align:left;
+  margin-left: 20px;
+  font-family: Arial;
+  font-size: 14px;
+  color: #41f321;
+}
+
+h1 {
+  width: 300px;
+  text-align:center;
+  margin: 0 auto;
+  font-family: Arial;
+  font-size: 30px;
+  color: #41f321;
+}
