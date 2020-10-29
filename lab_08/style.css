@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: #1b1b1b;
+}
+
+canvas {
+  display: block;
+  width: 800;
+  height: 800;
+
+  margin: 25px auto;
+}
+
+
+.box {
+  width: 400px;
+  height: 70px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.button {
+  position: relative;
+
+  margin: 0 10px;
+
+  font-family: Arial;
+  font-size: 25px;
+  width: 175px;
+  height: 75px;
+  color: #41f321;
+
+  border-radius: 2px;
+  border: solid rgb(27, 216, 27) 2px;
+
+  background-color: rgba(0, 0, 0, 0);
+
+  outline: none;
+  overflow: hidden;
+}
+
+p {
+  width: 200px;
+  align:left;
+  margin-left: 20px;
+  font-family: Arial;
+  font-size: 14px;
+  color: #41f321;
+}
